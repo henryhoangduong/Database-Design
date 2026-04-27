@@ -736,4 +736,3 @@
 | `owner_id` | `uuid` |  |
 | `updated_by_id` | `uuid` |  Nullable |
 | `company_size` | `int4` |  |
-

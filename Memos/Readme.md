@@ -181,4 +181,3 @@
 | `creator_id` | `int4` |  |
 | `name` | `text` |  |
 | `url` | `text` |  |
-
