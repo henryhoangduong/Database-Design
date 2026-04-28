@@ -3,3 +3,4 @@
 2. Memos (https://usememos.com/)
 3. Swetrix (https://swetrix.com/)
 4. Twenty (https://twenty.com/)
+5. Polar (https://polar.sh/)
