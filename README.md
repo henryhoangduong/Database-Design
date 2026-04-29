@@ -4,3 +4,4 @@
 3. Swetrix (https://swetrix.com/)
 4. Twenty (https://twenty.com/)
 5. Polar (https://polar.sh/)
+6. FormBricks (https://formbricks.com/)
